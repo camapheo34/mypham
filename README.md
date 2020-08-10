@@ -1,2 +1,2 @@
-# mypham
-mypham project
+# amd
+website amd
